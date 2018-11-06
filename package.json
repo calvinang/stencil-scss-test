@@ -1,0 +1,6 @@
+{
+  "name": "@k12/k12-stencil-test",
+  "version": "0.0.1",
+  "description": "K12 Common Components",
+  "main": "dist/index.js"
+}
